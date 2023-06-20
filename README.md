@@ -1,5 +1,5 @@
 # Task1
-his Online Reservation System will include all the necessary fields which are required during
+This Online Reservation System will include all the necessary fields which are required during
 online reservation system.The basic idea behind this project is to save data in a central database which can be
 accessed by any authorize person to get information and saves time and burden which are being
 faced by their customers.Utilized Java JDBC (Java Database Connectivity) to establish a connection with the MySQL database.
